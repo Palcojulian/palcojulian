@@ -2,7 +2,7 @@
 
 💻 Desarrollador Fullstack con experiencia en **Laravel (PHP)** y **Vue.js + TypeScript**, apasionado por construir aplicaciones web y móviles escalables, optimizadas y fáciles de mantener.  
 🚀 Me gusta trabajar en proyectos que combinan **arquitectura de software limpia**, **optimización de rendimiento** y el uso de tecnologías modernas para ofrecer soluciones de alto impacto.  
-📱 También he desarrollado funcionalidades móviles multiplataforma (Android & iOS) con **Capacitor** y **Google Maps** para georreferenciación y control de ubicaciones en tiempo real.  
+📱 También he desarrollado funcionalidades móviles multiplataforma (Android & iOS) con **Capacitor**
 
 ---
 
