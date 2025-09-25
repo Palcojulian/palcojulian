@@ -9,8 +9,15 @@
 ## 🛠️ Tecnologías y Herramientas  
 
 ### 🌐 Frontend  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+<div>
+<span>
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+</span>
+<span>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+</span>
+  
+</div>
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)  
 ![Vue Query](https://img.shields.io/badge/Vue%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
